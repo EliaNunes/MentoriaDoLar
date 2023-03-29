@@ -97,7 +97,6 @@ li.slick-active button{
 	height: 30px;
     border-radius: 10px;
     font-size: 0px;
-
 }
 
 .slick-slide:focus { outline: none; }
